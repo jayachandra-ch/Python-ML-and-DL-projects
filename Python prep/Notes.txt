@@ -1,0 +1,56 @@
+1) Python is case sensitive. Therefore, spam and Spam are both different.
+
+2) Python uses the ; as a separator, not a terminator. You can also use them at the end of a line, which makes them look like a statement terminator, but this is legal only because blank statements are legal in Python -- a line that contains a semicolon at the end is two statements, the second one blank.
+
+3) x**2 indicates x power 2.
+
+4) Operator precedence. Parentheses, power, (multiplication, division and remainder, (addition and subtraction). left to right.
+
+5) + is already overloaded so you can use to add two words eee='hello'+'there'
+
+6) type is used to print variable type type(1) the output is integer.
+
+7) float(99) means 99 is typecasted to a float number.
+
+8) print(9/2) outputs 4.5.
+
+
+9) Similar to scanf and cin we have input function it is used as input('who are you') then print('welcome', nam)
+
+10) Mnemonic variables are like pay, hours, etc are good for humnas not python.
+
+11) Anythin after # is ignored by python.
+
+12) if statement ends in a colon if x>20:
+
+13) look for comparison operators online. 
+
+14) Blok of code is actually represented by indents generally 4 spaces. Without spaces python will give syntax error. Same level of indenting is understood as block of code. 
+
+
+15) Mixing tabs and spaces might give errors. Go to lecture slide to get more information regarding this. Best practice is to use spaces instead of tabs.
+
+16) elif is shortform of else if.
+
+17) try: except:
+
+18) exit() and quit() can be used to quit in the middle wherever we want.
+
+19) def is a keyword to start the definiton of a function and ends with a colon as if and for. def thing():
+
+20) Traceback is the place where you see syntax errors.
+
+21) def greet(lang) : is a function with argument. return "hello" . return stops the function and returns a residual value. Functions with arguments and return type looks like def addtwo(a,b): return added
+
+22) While n>0:  ,for i in [5,4,3,2,1]: in is a keyword.
+
+23) None means absence of a value. e.g. value= None.
+
+
+explore inner classes, abstract classes, interfaces and method overloading if there is any way.
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+1) http://radek.io/2011/07/21/private-protected-and-public-in-python/ 
+2) https://tomayko.com/blog/2004/python-inner-classes
